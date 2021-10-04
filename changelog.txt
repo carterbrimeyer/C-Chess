@@ -1,0 +1,14 @@
+April 16th
+	Started assignment and decided to make chess engine, got basic layout of files and directory setup.
+April 17th
+	Got teams and pieces class set up to handle appropiate data.
+April 19th
+	ncurses setup and game boots into it and allows user to quit, got pieces to print to ncurses as well.
+April 22nd
+	Project got extended, made board that has decent dimensions and got it to print, also fixed some memory pointers issues.
+April 24th
+	Took a while to fix file include issues modified some classes.
+April 25th
+	figured out how to get pieces to move appropiately, started to make most of them behave, created move class to help handle this.
+April 26th
+	pieces now disappear when enemy piece lands on them, no visable bugs, but im sure there are some. Added a very simple end screen when game completes.
