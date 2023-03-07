@@ -1,6 +1,6 @@
 # C-Chess
 
-Simple chess game written in C++ for COM S 327 2021 by Carter Brimeyer
+Simple chess game written in C++ for Iowa State University COM S 327 in 2021 by Carter Brimeyer
 
 === HOW TO USE ===
 
@@ -13,14 +13,3 @@ Simple chess game written in C++ for COM S 327 2021 by Carter Brimeyer
 -> when done with game 'make clean' will clean up generated files.
 
 ===   ===   ===
-
-
-
-
-!~~ NOTE ~~!
-
-Some bugs may exist in the program and not every possible piece comboination has been tested vigorously, so be warned.
-
-Also some functions are a bit messy and could use some cleanup but I did not have much time to tidy it up.
-
-!~~      ~~!
